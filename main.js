@@ -2,7 +2,7 @@ const LinksSocialMedia = {
   github: "orionfilho0",
   youtube: "UCyyQNEqra-p0Nvfxsu3vNJw",
   facebook: "orionfilho.cap",
-  instagram: "gustavo_gbcell",
+  instagram: "_orionf",
   twitter: "orionfilho0"
 }     
 
